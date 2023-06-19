@@ -4,7 +4,7 @@ Inspired and started from [Julien Hillairet's list of fusion startups](http://ju
 | Company                                     | Started | Location                      | Concept                           | Break-even  | Website |
 | ------------------------------------------- | ------- | ----------------------------- | --------------------------------- | ----------- | ------- |
 | LPPFusion                                   | 1984    | Middlesex, NJ, USA            | Dense plasma focus, pinch         | 2025 [2]    | https://www.lppfusion.com |
-| Energy Matter Conversion Corporation (EMC2) | 1985    | Santa Fe, NM,USA              | IEC, Polywell                     | 2027 [1]    | |
+| Energy Matter Conversion Corporation (EMC2) | 1985    | Santa Fe, NM,USA              | IEC, Polywell                     | 2027 [1]    | 
 | TAE Technolgies (formerly Tri Alpha Energy) | 1998    | Foothill Ranch, CA, USA       | FRC, H-B11 fusion                 | 2025 [2]    | https://tae.com/ |
 | General Fusion                              | 2002    | Vancouver, Canada; Culham, UK | Compression, liquid metal walls   | 2027 [16]   | https://generalfusion.com/ |
 | HyperJet Fusion Corporation (formerly HyperV) | 2004  | Chantilly, VA, USA            | MIF, plasma jet driven            |             |
@@ -22,11 +22,11 @@ Inspired and started from [Julien Hillairet's list of fusion startups](http://ju
 | AGNI Energy Inc.                            | 2017    | Olympia, WA, USA              | Hybrid beam-target approach, E-field + B-field, beam-spin polarization | | https://www.linkedin.com/company/agni-energy |
 | Princeton Satellite Systems                 | 2017    | Plainsboro, NJ, USA           | FRC, fusion drive spacecraft      |             | https://www.princetonfusionsystems.com/ , https://www.psatellite.com/ |
 | Zap Energy                                  | 2017    | Seattle, WA, USA              | Z-pinch, shear-flow-stabilized    |             | https://www.zapenergy.com/ |
-| Compact Fusion Systems                      | 2017    | Santa Fe, NM, USA             | Liquid metal compression          | 2030 [8]    | |
+| Compact Fusion Systems                      | 2017    | Santa Fe, NM, USA             | Liquid metal compression          | 2030 [8]    | 
 | Advanced Ignition S.L.                      | 2018    | Cabanillas del Campo, Spain   | Z-pinch                           |             | http://www.pulsotron.com/ |
 | Avalanche Energy Designs                    | 2018    | Seattle, WA, USA              | Orbitron, IEC, micro-scale fusion reactor |     | https://www.avalanche.energy/ |
 | Commonwealth Fusion Systems (CFS)           | 2018    | Cambridge, MA, USA            | MCF, tokamak, HTS                 | 2025 [7]    | https://cfs.energy/ |
-| Helicity Space                              | 2018    | Berkely, CA, USA              | Spacecraft, helicity drive | | https://www.helicityspace.com/ |
+| Helicity Space                              | 2018    | Berkely, CA, USA              | Spacecraft, helicity drive        |             | https://www.helicityspace.com/ |
 | Crossfield Fusion                           | 2019    | London, UK                    | Technology for providing fusion fuel |          | http://crossfieldfusion.com/ |
 | HB11 Energy                                 | 2019    | Sydney, Australia             | Non-thermal laser fusion, H-B11   | 2030s [2]   | https://hb11.energy/ |
 | Kyoto Fusioneering Ltd.                     | 2019    | Kyoto, Japan                  | Fusion technology, gyroton, breeding blanket |  | https://kyotofusioneering.com/en/ |
