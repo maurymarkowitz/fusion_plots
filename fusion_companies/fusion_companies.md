@@ -1,62 +1,63 @@
 Inspired and started from [Julien Hillairet's list of fusion startups](http://julien.hillairet.free.fr/wiki/doku.php?id=list_of_fusion_startups).
 
 
-| Company                                     | Started | Location                      | Concept                           | Break-even | Website |
-| ------------------------------------------- | ------- | ----------------------------- | --------------------------------- | ---------- | ------- |
-| LPPFusion                                   | 1984    | Middlesex, New Jersey, USA    | Dense plasma focus, pinch         | 2025 [2]   | https://www.lppfusion.com |
-| Energy Matter Conversion Corporation (EMC2) | 1985    | USA                           | Polywell                          | 2027 [1]   | |
-| TAE Technolgies (formerly Tri Alpha Energy) | 1998    | Foothill Ranch, California, USA | FRC, H-B11 fusion               | 2025 [2] | https://tae.com/ |
-| General Fusion                              | 2002    | Vancouver, British Columbia, Canada; Culham, UK | Compression, liquid metal walls | 2027 [16] | https://generalfusion.com/ |
-| HyperJet Fusion Corporation (formerly HyperV Technologies Corp.) | 2004 | Chantilly, VA, USA | Plasma jet driven magneto-intertial fusion | |
-| Phoenix                                     | 2005    | Wisconsin, Madison, USA       | Beam-target fusion, fusion-based neutron source | | https://phoenixwi.com/ |
-| SHINE Technolgies                           | 2005    | Janesville, Wisconsin, USA    | Beam-target fusion, fusion-based neutron source | | https://www.shinefusion.com/ |
-| Horne Technologies                          | 2008    | Elliston, Montana, USA        | Inertial electrostatic confinement | 2023 [3] | https://www.hornetechnologies.com/ |
-| Magneto-Intertial Fusion Technolgies, Inc (MIFTI)     | 2008 | Tustin, California, USA | Z-pinch | 2030 [2] | https://miftec.com/ |
-| Tokamak Energy                              | 2009    | Oxford, UK                    | MCF, spherical tokamak, HTS       | 2025 [4] | https://www.tokamakenergy.co.uk |
-| Lockheed Martin Compact Fusion Reactor (CFR) | 2010   | USA | Magnetic mirror, cusp | 2019 [5] | https://www.lockheedmartin.com/en-us/products/compact-fusion.html |
-| First Light Fusion                          | 2011    | Yarnton, Oxfordshire, UK      | ICF, projectile fusion            | | https://firstlightfusion.com |
-| Proton Scientific, Inc.                     | 2012    | Oak Ridge, Tennessee, USA     | ICF, electron beam fusion | | https://golden.com/wiki/Proton_Scientific-999B8JD |
-| Helion Energy, Inc.                         | 2013    | Everett, Washington, USA      | FRC, magnetic compression, aneutronic fusion | 2024 [6] | https://www.helionenergy.com |
-| Pulsar Fusion                               | 2014    | Bletchley, UK                 | FRC, direct fusion drive, spacecraft | | https://pulsarfusion.com/products-development/fusion-propulsion
-| CTFusion                                    | 2015    | Seattle, Washington, USA      | Dynomak, spheromak | 2030s [2] | https://www.linkedin.com/company/ctfusion |
-| AGNI Energy Inc.                            | 2017    | Olympia, Washington, USA      | Hybrid beam-target approach, E-field + B-field, beam-spin polarization | | https://www.linkedin.com/company/agni-energy |
-| Princeton Satellite Systems                 | 2017    | Plainsboro, New Jersey, USA   | FRC, direct Fusion Drive, spacecraft | | https://www.princetonfusionsystems.com/ , https://www.psatellite.com/ |
-| Zap Energy                                  | 2017    | Seattle, Washington, USA      | Z-pinch, shear-flow-stabilized | | https://www.zapenergy.com/ |
-| Compact Fusion Systems                      | 2017    | Santa Fe, New Mexico, USA     | Liquid metal compression | 2030 [8] | |
-| Advanced Ignition S.L.                      | 2018    | Cabanillas del Campo, Spain   | Z-pinch | | http://www.pulsotron.com/ |
-| Avalanche Energy Designs                    | 2018    | Seattle, Washington, USA      | Orbitron, electrostatic confinement, micro-scale fusion reactor | | https://www.avalanche.energy/ |
-| Commonwealth Fusion Systems (CFS)           | 2018    | Cambridge, Massachusetts, USA | MCF, tokamak, HTS | 2025 [7] | https://cfs.energy/ |
-| Helicity Space                              | 2018    | Berkely, California, USA      | Spacecraft, helicity drive | | https://www.helicityspace.com/ |
-| Crossfield Fusion                           | 2019    | London, UK                    | Technology for providing fusion fuel | | http://crossfieldfusion.com/ |
-| HB11 Energy                                 | 2019    | Sydney, Australia             | Non-thermal fusion, hydrogen-boron11, laser fusion | 2030s [2] | https://hb11.energy/ |
-| Kyoto Fusioneering Ltd.                     | 2019    | Kyoto, Japan                  | Fusion technology, gyroton, breeding blanket | | https://kyotofusioneering.com/en/ |
-| Marvel Fusion                               | 2019    | Munich, Germany               | ICF, laser fusion, diode-pumped laser, H-B11 fusion, nanostructured fuel | | https://marvelfusion.com |
-| NT-TAO                                      | 2019    | Hod Hasharon, Israel          | Compact, proprietary plasma heating method, racetrack configuration | | https://www.nt-tao.com |
-| Oxford Sigma                                | 2019    | Didcot, Oxfordshire, UK       | Fusion technology | | https://www.oxfordsigma.com/ |
-| Type One Energy Group                       | 2019    | Madison, Wisconsin, USA       | MCF, stellarator, additive manufacturing | | https://www.typeoneenergy.com/ |
-| Electric Fusion Systems                     | 2020    | Broomfield, Colorado, USA     | Liquid metal hydrogen environment, p-Li fusion, aneutronic fusion | 2023 [2] | https://electricfusionsystems.com/ |
+| Company                                     | Started | Location                      | Concept                           | Break-even  | Website |
+| ------------------------------------------- | ------- | ----------------------------- | --------------------------------- | ----------- | ------- |
+| LPPFusion                                   | 1984    | Middlesex, NJ, USA            | Dense plasma focus, pinch         | 2025 [2]    | https://www.lppfusion.com |
+| Energy Matter Conversion Corporation (EMC2) | 1985    | USA                           | IEC, Polywell                     | 2027 [1]    | |
+| TAE Technolgies (formerly Tri Alpha Energy) | 1998    | Foothill Ranch, CA, USA       | FRC, H-B11 fusion                 | 2025 [2]    | https://tae.com/ |
+| General Fusion                              | 2002    | Vancouver, Canada; Culham, UK | Compression, liquid metal walls   | 2027 [16]   | https://generalfusion.com/ |
+| HyperJet Fusion Corporation (formerly HyperV) | 2004  | Chantilly, VA, USA            | Plasma jet driven magneto-intertial fusion |    |
+| Phoenix                                     | 2005    | Madison, WI, USA              | Beam-target fusion, neutron source |            | https://phoenixwi.com/ |
+| SHINE Technolgies                           | 2005    | Janesville, WI, USA           | Beam-target fusion, neutron source |            | https://www.shinefusion.com/ |
+| Horne Technologies                          | 2008    | Elliston, MN, USA             | IEC                               | 2023 [3]    | https://www.hornetechnologies.com/ |
+| Magneto-Intertial Fusion Technolgies, Inc (MIFTI)     | 2008 | Tustin, CA, USA        | Z-pinch                           | 2030 [2]    | https://miftec.com/ |
+| Tokamak Energy                              | 2009    | Oxford, UK                    | MCF, spherical tokamak, HTS       | 2025 [4]    | https://www.tokamakenergy.co.uk |
+| Lockheed Martin Compact Fusion Reactor (CFR) | 2010   | USA                           | Magnetic mirror, cusp             | 2019 [5]    | https://www.lockheedmartin.com/en-us/products/compact-fusion.html |
+| First Light Fusion                          | 2011    | Oxford, UK                    | ICF, projectile fusion            |             | https://firstlightfusion.com |
+| Proton Scientific, Inc.                     | 2012    | Oak Ridge, TN, USA            | ICF, electron beam fusion         |             | https://golden.com/wiki/Proton_Scientific-999B8JD |
+| Helion Energy, Inc.                         | 2013    | Everett, WA, USA              | FRC, magnetic compression, D-He3  | 2024 [6]    | https://www.helionenergy.com |
+| Pulsar Fusion                               | 2014    | Bletchley, UK                 | FRC, fusion drive spacecraft      |             | https://pulsarfusion.com/products-development/fusion-propulsion
+| CTFusion                                    | 2015    | Seattle, WA, USA              | Dynomak, spheromak                | 2030s [2]   | https://www.linkedin.com/company/ctfusion |
+| AGNI Energy Inc.                            | 2017    | Olympia, WA, USA              | Hybrid beam-target approach, E-field + B-field, beam-spin polarization | | https://www.linkedin.com/company/agni-energy |
+| Princeton Satellite Systems                 | 2017    | Plainsboro, NJ, USA           | FRC, fusion drive spacecraft      |             | https://www.princetonfusionsystems.com/ , https://www.psatellite.com/ |
+| Zap Energy                                  | 2017    | Seattle, WA, USA              | Z-pinch, shear-flow-stabilized    |             | https://www.zapenergy.com/ |
+| Compact Fusion Systems                      | 2017    | Santa Fe, NM, USA             | Liquid metal compression          | 2030 [8]    | |
+| Advanced Ignition S.L.                      | 2018    | Cabanillas del Campo, Spain   | Z-pinch                           |             | http://www.pulsotron.com/ |
+| Avalanche Energy Designs                    | 2018    | Seattle, WA, USA              | Orbitron, IEC, micro-scale fusion reactor |     | https://www.avalanche.energy/ |
+| Commonwealth Fusion Systems (CFS)           | 2018    | Cambridge, MA, USA            | MCF, tokamak, HTS                 | 2025 [7]    | https://cfs.energy/ |
+| Helicity Space                              | 2018    | Berkely, CA, USA              | Spacecraft, helicity drive | | https://www.helicityspace.com/ |
+| Crossfield Fusion                           | 2019    | London, UK                    | Technology for providing fusion fuel |          | http://crossfieldfusion.com/ |
+| HB11 Energy                                 | 2019    | Sydney, Australia             | Non-thermal laser fusion, H-B11   | 2030s [2]   | https://hb11.energy/ |
+| Kyoto Fusioneering Ltd.                     | 2019    | Kyoto, Japan                  | Fusion technology, gyroton, breeding blanket |  | https://kyotofusioneering.com/en/ |
+| Marvel Fusion                               | 2019    | Munich, Germany               | ICF, diode-pumped laser, H-B11 fusion |         | https://marvelfusion.com |
+| NT-TAO                                      | 2019    | Hod Hasharon, Israel          | Compact, racetrack configuration  |             | https://www.nt-tao.com |
+| Oxford Sigma                                | 2019    | Didcot, Oxfordshire, UK       | Fusion technology                 |             | https://www.oxfordsigma.com/ |
+| Type One Energy Group                       | 2019    | Madison, WA, USA              | MCF, stellarator, additive manufacturing |      | https://www.typeoneenergy.com/ |
+| Electric Fusion Systems                     | 2020    | Broomfield, CO, USA           | Liquid metal hydrogen environment, p-Li fusion, aneutronic fusion | 2023 [2] | https://electricfusionsystems.com/ |
 | Renaissance Fusion                          | 2020    | Grenoble, France              | MCF, stellarator, HTS, liquid metal walls | 2027 [2] | https://renfusion.eu/ |
-| Energy Singularity                          | 2021    | Shanghai, China               | MCF, compact tokamak, HTS, high-field  | | https://www.energysingularity.cn/en/ | 
-| EX-Fusion                                   | 2021    | Osaka, Japan                  | ICF, laser driven fusion   | 2030s [2] | https://www.ex-fusion.com/ | 
-| Focused Energy GmbH                         | 2021    | Darmstadt, Germany; Austin, Texas, USA   | Laser-based fusion    | 2035 [2] | https://focused-energy.world/ |
-| Helical Fusion                              | 2021    | Tokyo, Japan                  | MCF, stellarator, HTS | | https://www.helicalfusion.com/?lang=en |
-| Longview Fusion Energy Systems              | 2021    | Livermore, California, USA    | ICF            | 2030s [13] | https://www.longviewfusion.com/ |
-| NearStar Fusion                             | 2021    | Chantilly, Virginia, USA      | Hypervelocity gradient field fusion, plasma gun, pulsed fusion | 2026 [9] | https://www.nearstarfusion.com/ |
-| Startorus Fusion                            | 2021    | Shaanxi Province, China       | MCF, spherical tokamak                 | | |
-| Su-N Energy Technology (UK) Ltd             | 2021    | London, UK                    | Cold fusion, transmutation | | http://www.su-n.co.uk/ | 
-| Xcimer Energy Company                       | 2021    | Redwood City, California, USA | ICF, xcimer laser | | https://www.xcimer.net/ |
-| Deutelio                                    | 2022    | Varese, Italy                 | MCF, polomak                          | | https://www.deutelio.com/ |
-| Gauss Fusion GmbH                           | 2022    | Hanau, Germany                | Supplying technology for fusion experiments           | 2045 [12] | 
-| Kronos Fusion Energy                        | 2022    | Arlington, Virginia, USA      | MCF, minimum-aspect ratio torus, machine learning | 2036 [15] | https://www.kronosfusionenergy.com/ |
+| Energy Singularity                          | 2021    | Shanghai, China               | MCF, compact tokamak, HTS, high-field  |        | https://www.energysingularity.cn/en/ | 
+| EX-Fusion                                   | 2021    | Osaka, Japan                  | ICF, laser driven fusion          | 2030s [2]   | https://www.ex-fusion.com/ | 
+| Focused Energy GmbH                         | 2021    | Darmstadt, Germany; Austin, TX, USA   | Laser-based fusion        | 2035 [2]    | https://focused-energy.world/ |
+| Helical Fusion                              | 2021    | Tokyo, Japan                  | MCF, stellarator, HTS             |             | https://www.helicalfusion.com/?lang=en |
+| Longview Fusion Energy Systems              | 2021    | Livermore, CA, USA            | ICF                               | 2030s [13]  | https://www.longviewfusion.com/ |
+| NearStar Fusion                             | 2021    | Chantilly, VA, USA            | Hypervelocity gradient field fusion, plasma gun, pulsed fusion | 2026 [9] | https://www.nearstarfusion.com/ |
+| Startorus Fusion                            | 2021    | Shaanxi Province, China       | MCF, spherical tokamak            |             | |
+| Su-N Energy Technology (UK) Ltd             | 2021    | London, UK                    | Cold fusion, transmutation        |             | http://www.su-n.co.uk/ | 
+| Xcimer Energy Company                       | 2021    | Redwood City, CA, USA         | ICF, excimer laser                |             | https://www.xcimer.net/ |
+| Deutelio                                    | 2022    | Varese, Italy                 | MCF, polomak                      |             | https://www.deutelio.com/ |
+| Gauss Fusion GmbH                           | 2022    | Hanau, Germany                | Supplying technology for fusion experiments | 2045 [12] | |
+| Kronos Fusion Energy                        | 2022    | Arlington, VA, USA            | MCF, minimum-aspect ratio torus, machine learning | 2036 [15] | https://www.kronosfusionenergy.com/ |
 | Novatron                                    | 2022    | Stockholm, Sweden             | Magnetic mirror, cusp configuration  | 2040 [11] | https://www.novatronfusion.com/ |
-| Princeton Stellarators Inc. (PSI)           | 2022    | Princeton, New Jersey, USA    | MCF, stellarator, HTS, planar magnet arrays |  | https://www.princetonstellarators.energy |
-| Realta Fusion                               | 2022    | Madison, Wisconsin, USA       | Magnetic mirror, small-scale, linear, tandem mirror   | 2032 [10] | https://www.realtafusion.com/ |
-| Proxima Fusion                              | 2023    | Munich, Germany               | MCF, stellarator, HTS                      | 2030s [14]    | https://proximafusion.com/ | 
+| Princeton Stellarators Inc. (PSI)           | 2022    | Princeton, NJ, USA            | MCF, stellarator, HTS, planar magnet arrays |    | https://www.princetonstellarators.energy |
+| Realta Fusion                               | 2022    | Madison, WI, USA              | Magnetic mirror, small-scale, linear, tandem mirror   | 2032 [10] | https://www.realtafusion.com/ |
+| Proxima Fusion                              | 2023    | Munich, Germany               | MCF, stellarator, HTS             | 2030s [14]   | https://proximafusion.com/ | 
 
 
 **Abbreviations**:
 * MCF: Magnetic confinement fusion
 * ICF: Interial confinement fusion
+* IEC: Inertial electrostatic confinement
 * FRC: Field-reversed configuration
 
 
