@@ -7,11 +7,11 @@ Inspired and started from [Julien Hillairet's list of fusion startups](http://ju
 | Energy Matter Conversion Corporation (EMC2) | 1985    | Santa Fe, NM,USA              | IEC, Polywell                     | 2027 [1]    | |
 | TAE Technolgies (formerly Tri Alpha Energy) | 1998    | Foothill Ranch, CA, USA       | FRC, H-B11 fusion                 | 2025 [2]    | https://tae.com/ |
 | General Fusion                              | 2002    | Vancouver, Canada; Culham, UK | Compression, liquid metal walls   | 2027 [16]   | https://generalfusion.com/ |
-| HyperJet Fusion Corporation (formerly HyperV) | 2004  | Chantilly, VA, USA            | Plasma jet driven magneto-intertial fusion |    |
-| Phoenix                                     | 2005    | Madison, WI, USA              | Beam-target fusion, neutron source |            | https://phoenixwi.com/ |
-| SHINE Technolgies                           | 2005    | Janesville, WI, USA           | Beam-target fusion, neutron source |            | https://www.shinefusion.com/ |
+| HyperJet Fusion Corporation (formerly HyperV) | 2004  | Chantilly, VA, USA            | MIF, plasma jet driven            |             |
+| Phoenix                                     | 2005    | Madison, WI, USA              | Beam-target, neutron source       |             | https://phoenixwi.com/ |
+| SHINE Technolgies                           | 2005    | Janesville, WI, USA           | Beam-target, neutron source       |             | https://www.shinefusion.com/ |
 | Horne Technologies                          | 2008    | Elliston, MN, USA             | IEC                               | 2023 [3]    | https://www.hornetechnologies.com/ |
-| Magneto-Intertial Fusion Technolgies, Inc (MIFTI)     | 2008 | Tustin, CA, USA        | Z-pinch                           | 2030 [2]    | https://miftec.com/ |
+| Magneto-Intertial Fusion Technolgies, Inc (MIFTI) | 2008 | Tustin, CA, USA            | Z-pinch                           | 2030 [2]    | https://miftec.com/ |
 | Tokamak Energy                              | 2009    | Oxford, UK                    | MCF, spherical tokamak, HTS       | 2025 [4]    | https://www.tokamakenergy.co.uk |
 | Lockheed Martin Compact Fusion Reactor (CFR) | 2010   | USA                           | Magnetic mirror, cusp             | 2019 [5]    | https://www.lockheedmartin.com/en-us/products/compact-fusion.html |
 | First Light Fusion                          | 2011    | Oxford, UK                    | ICF, projectile fusion            |             | https://firstlightfusion.com |
@@ -55,10 +55,11 @@ Inspired and started from [Julien Hillairet's list of fusion startups](http://ju
 
 
 **Abbreviations**:
-* MCF: Magnetic confinement fusion
-* ICF: Interial confinement fusion
-* IEC: Inertial electrostatic confinement
-* FRC: Field-reversed configuration
+* MCF: [Magnetic confinement fusion](https://en.wikipedia.org/wiki/Magnetic_confinement_fusion)
+* ICF: [Interial confinement fusion](https://en.wikipedia.org/wiki/Inertial_confinement_fusion)
+* IEC: [Inertial electrostatic confinement](https://en.wikipedia.org/wiki/Inertial_electrostatic_confinement)
+* FRC: [Field-reversed configuration](https://en.wikipedia.org/wiki/Field-reversed_configuration)
+* MIF: [Magneto-inertial fusion](https://en.wikipedia.org/wiki/Magneto-inertial_fusion) (also [magnetized target fusion](https://en.wikipedia.org/wiki/Magnetized_target_fusion))
 
 
 # References
