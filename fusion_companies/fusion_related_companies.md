@@ -5,7 +5,7 @@ as suppliers or technology providers.
 
 | Company                                     | Started | Location                      | Concept                           | Website |
 | ------------------------------------------- | ------- | ----------------------------- | --------------------------------- | ------- |
-| Astral Systems                              | 2005    | UK                            | Beam-target, lattice, neutron source | https://www.astralneutronics.com |
+| Astral Systems                              | 2005    | UK                            | IEF, lattice, neutron source | https://www.astralneutronics.com |
 | Phoenix                                     | 2005    | Madison, WI, USA              | Beam-target, neutron source       | https://phoenixwi.com/ |
 | SHINE Technolgies                           | 2005    | Janesville, WI, USA           | Beam-target, neutron source       | https://www.shinefusion.com/ |
 | Pulsar Fusion                               | 2014    | Bletchley, UK                 | FRC, fusion drive spacecraft      | https://pulsarfusion.com/products-development/fusion-propulsion
